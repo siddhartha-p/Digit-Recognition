@@ -1,3 +1,4 @@
-hand written digit images from MNIST dataset 
-recognition using neural nets
+Predicting handwritten digit images from MNIST dataset 
+using neural nets
+
 
